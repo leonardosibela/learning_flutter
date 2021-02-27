@@ -14,7 +14,7 @@ class Home extends StatelessWidget {
         backgroundColor: Colors.red[600],
       ),
       body: Row(
-        mainAxisAlignment: MainAxisAlignment.spaceAround,
+        mainAxisAlignment: MainAxisAlignment.center,
         children: [
           Text('Hello world'),
           FlatButton(
