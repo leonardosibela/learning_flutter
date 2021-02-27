@@ -14,9 +14,7 @@ class Home extends StatelessWidget {
         backgroundColor: Colors.red[600],
       ),
       body: Center(
-        child: Image(
-          image: AssetImage('images/space-one.jpg'),
-        ),
+        child: Image.asset('images/space-three.jpg')
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: () {},
