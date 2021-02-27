@@ -13,7 +13,8 @@ void main() => runApp(MaterialApp(
         style: TextStyle(
           fontSize: 20.0,
           fontWeight: FontWeight.bold,
-          color: Colors.blueGrey
+          color: Colors.blueGrey,
+          letterSpacing: 2.0
         ),
       ),
     ),
