@@ -14,7 +14,8 @@ void main() => runApp(MaterialApp(
           fontSize: 20.0,
           fontWeight: FontWeight.bold,
           color: Colors.blueGrey,
-          letterSpacing: 2.0
+          letterSpacing: 2.0,
+          fontFamily: 'IndieFlower'
         ),
       ),
     ),
