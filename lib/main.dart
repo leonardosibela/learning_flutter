@@ -6,6 +6,8 @@ void main() => runApp(MaterialApp(
       title: Text('Timezone app'),
       centerTitle: true,
     ),
-    body: Text('Hello world'),
+    body: Center(
+      child: Text('Hello world'),
+    ),
   )
 ));
