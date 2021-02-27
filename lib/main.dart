@@ -15,7 +15,7 @@ class Home extends StatelessWidget {
       ),
       body: Row(
         mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-        crossAxisAlignment: CrossAxisAlignment.stretch,
+        crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           Text('Hello world'),
           FlatButton(
